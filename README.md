@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @donaldo196
+- 👋 Hi, I’m Donald Otieno
 - 👀 I’m interested in frontend software development
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on new projects
