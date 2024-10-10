@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Donald Otieno
-- 👀 I’m interested in frontend software development
-- 🌱 I’m currently learning node.js
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Serverless Architecture
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: donaldo196@gmail.com
 
